@@ -1,0 +1,5 @@
+package freeland.ifc.app.domain;
+
+public enum Secteur {
+   AGRICULTURE, EXPLOITATIONMINIERE,INDUSTRIEMANUFACTURIERE,ENERGIE,SERVICES,ONG 
+}
